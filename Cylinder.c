@@ -2,7 +2,7 @@
 /*
 Name:Given Abuya 
 Reg no:PA106/G/28830/25
-Description 
+Description:output of volume and surface area of cylinder
 */
 
 #include<stdio.h>
